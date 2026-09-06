@@ -3,7 +3,11 @@ layout: about
 title: about
 permalink: /
 subtitle: "Machine Learning \xB7 Generative Modeling \xB7 Python / PyTorch"
-profile: false
+profile:
+  align: right
+  image: ruihong.jpg
+  image_circular: false
+  more_info: >
 selected_papers: false
 social: false
 announcements:
