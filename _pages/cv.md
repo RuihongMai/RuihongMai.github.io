@@ -16,7 +16,7 @@ Machine learning · Python / PyTorch
 
 ## Education
 
-**{{ site.data.profile.university }}** — {{ site.data.profile.major }}  
+**[{{ site.data.profile.university }}](https://zh.bit.edu.cn/)** — {{ site.data.profile.major }}
 Undergraduate background · {{ site.data.profile.education_dates }}
 
 Areas of study: machine learning, deep learning, and reinforcement learning.
