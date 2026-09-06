@@ -195,21 +195,8 @@ jekyll-minifier:
 terser:
   compress:
     drop_console: true
-jekyll-archives:
-  posts:
-    enabled:
-    - year
-    - tags
-    - categories
-    permalinks:
-      year: /blog/:year/
-      tags: /blog/:type/:name/
-      categories: /blog/:type/:name/
-  books:
-    enabled:
-    - year
-    - tags
-    - categories
+# No blog or book archives are used by this personal site.
+jekyll-archives: {}
 display_tags:
 - formatting
 - images
