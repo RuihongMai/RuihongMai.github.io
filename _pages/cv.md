@@ -4,6 +4,7 @@ title: cv
 permalink: /cv/
 nav: true
 nav_order: 3
+redirect: /Ruihong_Mai_CV.pdf
 ---
 
 ## {{ site.first_name }} {{ site.last_name }}
