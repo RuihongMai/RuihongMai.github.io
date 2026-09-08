@@ -9,7 +9,7 @@ profile:
   image_circular: false
   more_info: >
 selected_papers: false
-social: false
+social: true
 announcements:
   enabled: false
 latest_posts:
